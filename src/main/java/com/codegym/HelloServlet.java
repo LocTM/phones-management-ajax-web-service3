@@ -1,4 +1,4 @@
-package com.codegym.wbds2023springwebserviceajax3;
+package com.codegym;
 
 import java.io.*;
 import javax.servlet.http.*;
